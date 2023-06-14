@@ -48,8 +48,7 @@ For this analysis, we gathered data from various data assets related to bank cus
 
 The churn analysis focuses on analyzing the provided dataset to extract insights into customer churn. By understanding the factors that contribute to churn, banks can develop loyalty programs and retention campaigns to retain customers.
 
-
-[Report.pdf](https://github.com/pranitabhagat/Customer-Churn-Analysis/files/11744386/Report.pdf)
+![Screenshot (34)](https://github.com/pranitabhagat/Customer-Churn-Analysis/assets/123992668/caf9f5b9-e8f5-47ea-a385-3f9c2f68ba0a)
 
 ## Conclusion
 
